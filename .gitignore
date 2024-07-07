@@ -1,0 +1,102 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Dependency directories
+bower_components/
+
+# Production
+build/
+dist/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+
+# Temporary files
+*.tmp
+*.temp
+*.pid
+*.seed
+*.pid.lock
+
+# Cache
+.cache/
+tmp/
+*.bak
+*.backup
+*.swp
+*.swo
+*.swn
+
+# Build artifacts
+coverage/
+*.map
+
+# Static site generators
+.cache/
+
+# Compiled files
+*.out
+*.exe
+*.app
+*.jar
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Mac-specific files
+.AppleDouble
+.LSOverride
+
+# Windows-specific files
+*.lnk
+
+# Intellij IDE
+*.iml
+*.iws
+.idea/
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# VSCode
+.vscode/
+
+# SASS
+.sass-cache/
+
+# Jekyll
+_site/
+
+# Hugo
+/public/
+
+# Metals
+.metals/
+
+# Miscellaneous
+*.orig
